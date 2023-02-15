@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there, I'm Trudie! :blush:
+I’m currently undertaking a software engineering course with HyperionDev and DfE where I've been learning about:
+- Python
+- Sqlite
+- HTML/CSS
+- Django
+
+There's been a lot to get my head around but it's been fun. Some of my course projects can be found [here](https://github.com/trudiekennedy/finalCapstone). 
+
+🔭 I’m currently working on my final Capstone Project (which is a book inventory system). If you've got any tips for this newbie, please pass them my way... 
+
 
 <!--
 **trudiekennedy/trudiekennedy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
