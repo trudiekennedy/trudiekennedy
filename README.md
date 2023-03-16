@@ -1,5 +1,5 @@
 ### Hi there, I'm Trudie! :blush:
-I’m currently undertaking a software engineering course with HyperionDev and DfE where I've been learning about:
+I’ve just completed a software engineering course with HyperionDev and DfE where I've been learning about:
 - Python
 - Sqlite
 - HTML/CSS
