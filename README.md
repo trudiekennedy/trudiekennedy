@@ -7,7 +7,7 @@ I’ve just completed a software engineering course with HyperionDev and DfE whe
 
 There's been a lot to get my head around but it's been fun. Some of my course projects can be found [here](https://github.com/trudiekennedy/finalCapstone). 
 
-🔭 I’m currently working on my final Capstone Project (which is a book inventory system). If you've got any tips for this newbie, please pass them my way... 
+🔭 If you've got any tips for this newbie, please pass them my way... 
 
 
 <!--
