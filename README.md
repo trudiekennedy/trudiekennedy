@@ -7,7 +7,8 @@ I’ve just completed a software engineering course with HyperionDev and DfE whe
 
 There's been a lot to get my head around but it's been fun. Some of my course projects can be found [here](https://github.com/trudiekennedy/finalCapstone). 
 
-🔭 If you've got any tips for this newbie, please pass them my way... 
+🔭 I’m currently working on an arithmetic quiz for my 9-year-old niece (to save me having to come up with questions on the fly!).
+🤔 If you've got any tips for this newbie, please pass them my way... 
 
 
 <!--
