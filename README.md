@@ -7,7 +7,7 @@ I'm currently an apprentice software developer with Makers Academy. I previously
 
 Some of my previous course projects can be found [here](https://github.com/trudiekennedy/finalCapstone). 
 
-🔭 I’m currently working on an [arithmetic quiz](https://github.com/trudiekennedy/some-sums) for my 9-year-old niece (to save me having to come up with questions on the fly!). I'm currently trying to work out how to build a fun front-end for it with limited success but I'm sure I'll crack it... eventually!
+🔭 I’m currently working on a simple [arithmetic quiz](https://github.com/trudiekennedy/some-sums) for my 9-year-old niece (to save me having to come up with questions on the fly!). I'm currently trying to work out how to build a fun front-end for it with limited success but I'm sure I'll crack it... eventually!
 
 🤔 If you've got any tips for this rather green newbie, please pass them my way... 
 
