@@ -1,9 +1,16 @@
 ### Hi there, I'm Trudie! :blush:
-I'm currently an apprentice software developer with Makers Academy. I previously completed a software engineering course with HyperionDev and DfE where I learnt about:
+I'm currently an apprentice software developer with Makers Academy. I previously completed a software engineering course with HyperionDev and DfE.
+I've been learning about:
 - Python
-- Sqlite
+- Javascript
+- Kotlin
+- C#
+- SQL
 - HTML/CSS
+- React
 - Django
+
+During the bootcamp portion of my course, I've participated in pair & mob programming as well as test driven development. I'm trying to put everything I've learnt in to practise (with mixed success!)
 
 Some of my previous course projects can be found [here](https://github.com/trudiekennedy/finalCapstone). 
 
